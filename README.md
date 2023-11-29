@@ -24,8 +24,9 @@ print(e)
 ```
   
 
-### OUTPUT:
-![Alt text](<Screenshot 2023-11-29 102153.png>)
+### OUTPUT
+
+![Screenshot 2023-11-29 102153](https://github.com/ALANZION/DISTANCE-BETWEEN-TWO-POINTS/assets/145743064/f9e4fffc-baad-484a-acb7-910969b25782)
 
 
 ### RESULT:
